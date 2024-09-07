@@ -81,12 +81,12 @@ html, body {
 }
 
 .image-1 {
-    background-image: url(../images/Image1.png);
+    background-image: url(./images/Image1.png);
     width: 50%;
 }
 
 .image-2 {
-    background-image: url(../images/Image2.png);
+    background-image: url(./images/Image2.png);
     width: 50%;
 }
 
@@ -101,27 +101,27 @@ html, body {
 }
 
 .image-3 {
-    background-image: url(../images/Image3.png);
+    background-image: url(./images/Image3.png);
     grid-area: e;
 }
 
 .image-4 {
-    background-image: url(../images/Image4.png);
+    background-image: url(./images/Image4.png);
     grid-area: h;
 }
 
 .image-5 {
-    background-image: url(../images/Image5.png);
+    background-image: url(./images/Image5.png);
     grid-area: j;
 }
 
 .image-6 {
-    background-image: url(../images/Image6.png);
+    background-image: url(./images/Image6.png);
     grid-area: f;
 }
 
 .image-7 {
-    background-image: url(../images/Image7.png);
+    background-image: url(./images/Image7.png);
     grid-area: g;
 }
 
@@ -131,17 +131,17 @@ html, body {
 }
 
 .image-8 {
-    background-image: url(../images/Image8.png);
+    background-image: url(./images/Image8.png);
     width: 20%;
 }
 
 .image-9 {
-    background-image: url(../images/Image9.png);
+    background-image: url(./images/Image9.png);
     width: 20%;
 }
 
 .image-10 {
-    background-image: url(../images/Image10.png);
+    background-image: url(./images/Image10.png);
     width: 25%;
     margin-left: auto;
     margin-right: auto;
